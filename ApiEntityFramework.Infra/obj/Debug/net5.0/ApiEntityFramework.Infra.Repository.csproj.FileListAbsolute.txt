@@ -1,0 +1,15 @@
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Infra.Repository.deps.json
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Infra.Repository.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ref\ApiEntityFramework.Infra.Repository.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Infra.Repository.pdb
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Domain.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Domain.pdb
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.AssemblyInfo.cs
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.csproj.CopyComplete
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ref\ApiEntityFramework.Infra.Repository.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.Repository.pdb

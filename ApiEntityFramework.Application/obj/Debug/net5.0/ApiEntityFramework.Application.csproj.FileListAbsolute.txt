@@ -1,0 +1,15 @@
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\bin\Debug\net5.0\ApiEntityFramework.Application.deps.json
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\bin\Debug\net5.0\ApiEntityFramework.Application.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\bin\Debug\net5.0\ref\ApiEntityFramework.Application.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\bin\Debug\net5.0\ApiEntityFramework.Application.pdb
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\bin\Debug\net5.0\ApiEntityFramework.Domain.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\bin\Debug\net5.0\ApiEntityFramework.Domain.pdb
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.AssemblyInfo.cs
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.csproj.CopyComplete
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ref\ApiEntityFramework.Application.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Application\obj\Debug\net5.0\ApiEntityFramework.Application.pdb

@@ -1,0 +1,12 @@
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\bin\Debug\net5.0\ApiEntityFramework.Domain.deps.json
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\bin\Debug\net5.0\ApiEntityFramework.Domain.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\bin\Debug\net5.0\ref\ApiEntityFramework.Domain.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\bin\Debug\net5.0\ApiEntityFramework.Domain.pdb
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ApiEntityFramework.Domain.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ApiEntityFramework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ApiEntityFramework.Domain.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ApiEntityFramework.Domain.AssemblyInfo.cs
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ApiEntityFramework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ApiEntityFramework.Domain.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ref\ApiEntityFramework.Domain.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Domain\obj\Debug\net5.0\ApiEntityFramework.Domain.pdb

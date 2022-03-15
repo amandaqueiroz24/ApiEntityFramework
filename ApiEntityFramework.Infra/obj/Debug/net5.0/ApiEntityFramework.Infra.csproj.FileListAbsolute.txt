@@ -1,0 +1,15 @@
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Infra.deps.json
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Infra.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ref\ApiEntityFramework.Infra.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Infra.pdb
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Domain.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\bin\Debug\net5.0\ApiEntityFramework.Domain.pdb
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.AssemblyInfo.cs
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.csproj.CopyComplete
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ref\ApiEntityFramework.Infra.dll
+C:\Users\amand\source\repos\EntityFrameworkCore\ApiEntityFramework.Infra\obj\Debug\net5.0\ApiEntityFramework.Infra.pdb
